@@ -25,3 +25,6 @@ Contributors names and contact info
 
 Nguyen Quang Truong
 Email : truong.nguyen200207@vnuk.edu.vn
+
+##Conclusion :
+Thank you Mr. Vu and Mr. Thien for all the supports to improve our coding skills day by day.
